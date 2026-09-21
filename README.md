@@ -81,7 +81,7 @@ erDiagram
 | [`datawarehouse/`](datawarehouse/) | Modèle dimensionnel (dimensions, table de faits, schéma en étoile) et scripts SQL |
 | [`etl/`](etl/) | Jobs IBM DataStage : alimentation des dimensions et de la table de faits, jobs d'agrégation |
 | [`cognos/`](cognos/) | Modèle IBM Cognos Framework Manager : relations, cardinalités, package publié |
-| [`power-bi/`](power-bi/) | Tableaux de bord, mesures DAX et indicateurs |
+| [`power-bi/`](power%20bi/) | Tableaux de bord, mesures DAX et indicateurs |
 
 ---
 
