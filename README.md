@@ -137,7 +137,7 @@ et adaptez les chemins des images.
 
 **Hajar GUEMILI** — Étudiante en 2ème année ACI, filière IIN — École des Sciences de l'Information (ESI), 2025/2026.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/VOTRE-PROFIL) · ✉️ votre.email@exemple.com
+🔗 [LinkedIn](https://www.linkedin.com/in/hajar-guemili-b28900434/) · ✉️ hajarguemili5@gmail.com
 
 ## 📜 Licence et données
 
